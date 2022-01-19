@@ -15,14 +15,14 @@ namespace BDTBaithuchanh345.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "helooo.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "heloooooooooo.";
 
             return View();
         }
