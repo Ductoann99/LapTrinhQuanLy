@@ -4,4 +4,13 @@
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 
-<p>Use this area to provide additional information.</p>
+<p> Lớp tin học kinh tế </p>
+@using (Html.BeginForm())
+{
+     <label> Mã sinh viên </label>
+     <input type="text" name="Masinhvien" />
+     <label>Họ và tên </label>
+     <input type="text"  name="Hovaten"  />
+     <input type="submit" value="Gửi dữ liệu " />
+
+}
