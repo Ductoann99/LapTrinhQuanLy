@@ -85,3 +85,4 @@ D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migr
 D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.csproj.GenerateResource.cache
 D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.InitialCreate1.resources
 D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.InitialCreate2.resources
+D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.InitialCreate3.resources

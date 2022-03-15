@@ -15,5 +15,7 @@ namespace BDTBaitaplon345.Models
         public virtual DbSet<Lop> Lops { get; set; }
         public virtual DbSet<Diem> Diems { get; set; }
         public virtual DbSet<HocPhan> HocPhans { get; set; }
+        public virtual DbSet<Account> Accounts { get; set; }
+        public virtual DbSet<Role> Roles { get; set; }
     }
 }

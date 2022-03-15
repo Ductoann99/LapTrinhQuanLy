@@ -143,13 +143,19 @@
     <Compile Include="Migrations\202203090345260_InitialCreate2.designer.cs">
       <DependentUpon>202203090345260_InitialCreate2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203150025520_InitialCreate3.cs" />
+    <Compile Include="Migrations\202203150025520_InitialCreate3.designer.cs">
+      <DependentUpon>202203150025520_InitialCreate3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Account.cs" />
     <Compile Include="Models\BtlDbcontext.cs" />
     <Compile Include="Models\Diem.cs" />
     <Compile Include="Models\GiaoVien.cs" />
     <Compile Include="Models\HocPhan.cs" />
     <Compile Include="Models\Khoa.cs" />
     <Compile Include="Models\Lop.cs" />
+    <Compile Include="Models\Role.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -215,6 +221,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202203090345260_InitialCreate2.resx">
       <DependentUpon>202203090345260_InitialCreate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203150025520_InitialCreate3.resx">
+      <DependentUpon>202203150025520_InitialCreate3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
