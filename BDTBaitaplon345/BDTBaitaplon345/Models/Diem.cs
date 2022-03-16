@@ -18,6 +18,7 @@ namespace BDTBaitaplon345.Models
         public float DiemB { get; set; }
         public float DiemC { get; set; }
         public float DiemTongKet { get; set; }
+        public string NamHoc { get; set; }
         public string MaHocPhan { get; set; }
     }
 }
