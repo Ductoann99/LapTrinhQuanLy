@@ -88,3 +88,4 @@ D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migr
 D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.InitialCreate3.resources
 D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.upControllers.resources
 D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.UpControlers2.resources
+D:\Laptrinhquanly\BDTBaitaplon345\BDTBaitaplon345\obj\Debug\BDTBaitaplon345.Migrations.XaydungClass.resources

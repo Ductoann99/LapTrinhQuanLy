@@ -46,7 +46,7 @@ namespace BDTBaitaplon345.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,MaSinhVien,HocKi,DiemA,DiemB,DiemC,DiemTongKet,MaHocPhan")] Diem diem)
+        public ActionResult Create([Bind(Include = "ID,MaSinhVien,NamHoc,HocKi,DiemA,DiemB,DiemC,DiemTongKet,MaHocPhan")] Diem diem)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace BDTBaitaplon345.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,MaSinhVien,HocKi,DiemA,DiemB,DiemC,DiemTongKet,MaHocPhan")] Diem diem)
+        public ActionResult Edit([Bind(Include = "ID,MaSinhVien,NamHoc,HocKi,DiemA,DiemB,DiemC,DiemTongKet,MaHocPhan")] Diem diem)
         {
             if (ModelState.IsValid)
             {

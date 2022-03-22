@@ -160,6 +160,10 @@
     <Compile Include="Migrations\202203160340463_UpControlers2.Designer.cs">
       <DependentUpon>202203160340463_UpControlers2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203220044333_XaydungClass.cs" />
+    <Compile Include="Migrations\202203220044333_XaydungClass.Designer.cs">
+      <DependentUpon>202203220044333_XaydungClass.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\BtlDbcontext.cs" />
@@ -273,6 +277,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202203160340463_UpControlers2.resx">
       <DependentUpon>202203160340463_UpControlers2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203220044333_XaydungClass.resx">
+      <DependentUpon>202203220044333_XaydungClass.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

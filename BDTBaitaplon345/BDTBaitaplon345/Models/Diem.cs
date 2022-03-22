@@ -13,12 +13,12 @@ namespace BDTBaitaplon345.Models
         [Key]
         public string ID { get; set; }
         public string MaSinhVien { get; set; }
+        public string NamHoc { get; set; }
         public float HocKi { get; set; }
         public float DiemA { get; set; }
         public float DiemB { get; set; }
         public float DiemC { get; set; }
         public float DiemTongKet { get; set; }
-        public string NamHoc { get; set; }
         public string MaHocPhan { get; set; }
     }
 }
